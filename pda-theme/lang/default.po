@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pda-theme 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-02-27 23:41+0100\n"
+"Last-Translator: pda-theme <contact@imthi.com>\n"
+"Language-Team: pda-theme <contact@imthi.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#
+#: 404.php:12
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#
+#: archive.php:7
+#, php-format
+msgid "Archive for the '%s' Category"
+msgstr ""
+
+#
+#: archive.php:10
+#: archive.php:13
+#: archive.php:16
+#, php-format
+msgid "Archive for %s"
+msgstr ""
+
+#
+#: archive.php:10
+#: comments.php:36
+#: index.php:9
+msgid "F jS, Y"
+msgstr ""
+
+#
+#: archive.php:13
+msgid "F, Y"
+msgstr ""
+
+#
+#: archive.php:19
+#: search.php:6
+msgid "Search Results"
+msgstr ""
+
+#
+#: archive.php:22
+msgid "Author Archive"
+msgstr ""
+
+#
+#: archive.php:25
+msgid "Blog Archives"
+msgstr ""
+
+#
+#: archive.php:31
+#: index.php:8
+#: search.php:11
+#: single.php:7
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#
+#: archive.php:32
+#: search.php:12
+#: single.php:16
+msgid "l, F jS, Y"
+msgstr ""
+
+#
+#: archive.php:38
+#: index.php:15
+#: search.php:16
+msgid "Posted in"
+msgstr ""
+
+#
+#: archive.php:38
+#: index.php:15
+#: search.php:16
+msgid "Edit"
+msgstr ""
+
+#
+#: archive.php:38
+#: index.php:15
+#: search.php:16
+msgid "No Comments"
+msgstr ""
+
+#
+#: archive.php:38
+#: index.php:15
+#: search.php:16
+msgid "1 Comment"
+msgstr ""
+
+#
+#: archive.php:38
+#: index.php:15
+#: search.php:16
+msgid "% Comments"
+msgstr ""
+
+#
+#: archive.php:45
+#: search.php:22
+msgid "Previous Entries"
+msgstr ""
+
+#
+#: archive.php:45
+#: search.php:22
+msgid "Next Entries"
+msgstr ""
+
+#
+#: archive.php:50
+#: index.php:26
+msgid "Not Found"
+msgstr ""
+
+#
+#: comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#
+#: comments.php:23
+msgid "No Responses"
+msgstr ""
+
+#
+#: comments.php:23
+msgid "One Response"
+msgstr ""
+
+#
+#: comments.php:23
+msgid "% Responses"
+msgstr ""
+
+#
+#: comments.php:23
+msgid "to"
+msgstr ""
+
+#
+#: comments.php:30
+msgid "Says:"
+msgstr ""
+
+#
+#: comments.php:32
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# 
+#: comments.php:36
+msgid "at"
+msgstr ""
+
+#
+#: comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#
+#: comments.php:66
+msgid "Leave a Reply"
+msgstr ""
+
+#
+#: comments.php:76
+msgid "Logged in as"
+msgstr ""
+
+#
+#: comments.php:76
+msgid "Log out of this account"
+msgstr ""
+
+#
+#: comments.php:76
+msgid "Logout"
+msgstr ""
+
+#
+#: comments.php:81
+msgid "Name"
+msgstr ""
+
+# 
+#: comments.php:81
+#: comments.php:84
+msgid "required"
+msgstr ""
+
+#
+#: comments.php:84
+msgid "Mail (will not be published)"
+msgstr ""
+
+#
+#: comments.php:87
+msgid "Website"
+msgstr ""
+
+#
+#: comments.php:91
+msgid "You can use these tags:"
+msgstr ""
+
+#
+#: comments.php:95
+msgid "Submit Comment"
+msgstr ""
+
+# 
+#: footer.php:3
+#, php-format
+msgid "%1$s is proudly powered by %2$s and pda enhancement by %3$s."
+msgstr ""
+
+#
+#: header.php:6
+msgid "Blog Archive"
+msgstr ""
+
+#
+#: index.php:9
+msgid "by"
+msgstr ""
+
+#
+#: index.php:21
+msgid "Previous Page"
+msgstr ""
+
+#
+#: index.php:21
+msgid "Next Page"
+msgstr ""
+
+# 
+#: index.php:27
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#
+#: page.php:7
+msgid "Read the rest of this page"
+msgstr ""
+
+# 
+#: page.php:9
+#: sidebar.php:1
+msgid "Pages:"
+msgstr ""
+
+#
+#: page.php:9
+#: single.php:12
+msgid "number"
+msgstr ""
+
+#
+#: searchform.php:2
+msgid "Search"
+msgstr ""
+
+# 
+#: sidebar.php:2
+msgid "Categories:"
+msgstr ""
+
+#
+#: sidebar.php:3
+msgid "Archives:"
+msgstr ""
+
+#
+#: single.php:10
+msgid "Read the rest of this entry"
+msgstr ""
+
+#
+#: single.php:16
+#, php-format
+msgid "This entry was posted on %1$s at %2$s and is filled under:"
+msgstr ""
+
+#
+#: single.php:31
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+

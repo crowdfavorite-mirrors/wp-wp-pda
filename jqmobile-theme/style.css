@@ -1,0 +1,49 @@
+/*
+Theme Name: jqmobile-theme
+Theme URI: http://imthi.com/wp-pda/
+Description: A theme especially designed for latest mobile devices (iPhone,Android)
+Version: 1.0
+Author: Imthiaz
+Author URI: http://imthi.com/
+
+The CSS, XHTML and design is released under GPL:
+http://www.opensource.org/licenses/gpl-license.php
+
+SVN: $Id: style.css 337006 2011-01-25 13:34:58Z imthiaz $
+
+*/
+
+.navbar-header .ui-btn .ui-btn-inner {
+	padding-top: 40px !important;
+}
+
+.navbar-header .ui-btn .ui-icon {
+	width: 30px!important;
+	height: 30px!important;
+	margin-left: -15px !important;
+	box-shadow: none!important;
+	-moz-box-shadow: none!important;
+	-webkit-box-shadow: none!important;
+	-webkit-border-radius: none !important;
+	border-radius: none !important;
+}
+
+#navbar-icon-home .ui-icon {
+	background: url(glyphish-icons/53-house.png) 50% 50% no-repeat;
+	background-size: 22px 22px;
+}
+
+#navbar-icon-categories .ui-icon {
+	background: url(glyphish-icons/44-shoebox.png) 50% 50% no-repeat;
+	background-size: 22px 24px;
+}
+
+#navbar-icon-tags .ui-icon {
+	background: url(glyphish-icons/15-tags.png) 50% 50% no-repeat;
+	background-size: 24px 25px;
+}
+
+#navbar-icon-pages .ui-icon {
+	background: url(glyphish-icons/180-stickynote.png) 50% 50% no-repeat;
+	background-size: 22px 22px;
+}
